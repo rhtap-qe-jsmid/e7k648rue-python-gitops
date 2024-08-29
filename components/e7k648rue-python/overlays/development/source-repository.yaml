@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: e7k648rue-python-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/e7k648rue-python
